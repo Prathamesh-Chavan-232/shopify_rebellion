@@ -3,8 +3,17 @@
 * {
   font-family: var(--ff-primary);
 }
+
+.nav {
+  height: 60px;
+}
 .nav-items {
   flex: 1;
+}
+
+.lang {
+  font-size: 14px;
+  cursor: pointer;
 }
 
 /* Button used to open the contact form - fixed at the bottom of the page */
